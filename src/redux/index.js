@@ -1,5 +1,5 @@
 export {
     setProduct,
-    selectProduct
+    selectedProduct
 } from "./product/productAction";
 
